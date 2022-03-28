@@ -1,0 +1,25 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: powderblue;
+}
+
+.name header {
+    position: static;
+}
+
+.name {
+    padding: 10px;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gold;
+}
+
+.name ul li {
+    display: inline-block;
+    margin-left: 15px;
+    color: gold;
+    list-style-type: none;
+}
