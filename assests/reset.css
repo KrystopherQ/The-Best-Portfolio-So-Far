@@ -13,7 +13,7 @@ html {
 body {
     min-height: 100%;
     line-height: 1;
-    font-family: sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 ​h1,
@@ -34,7 +34,7 @@ button,
 pre,
 code {
     font-size: 100%;
-    font-family: inherit;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 ​ol,
