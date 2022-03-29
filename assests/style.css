@@ -1,25 +1,49 @@
 * {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif
 }
 
 body {
-    background-color: powderblue;
-}
-
-.name header {
-    position: static;
+    background-color: rgb(129, 255, 249);
 }
 
 .name {
-    padding: 10px;
-    background-color: black;
     font-family: Arial, Helvetica, sans-serif;
-    color: gold;
+    position: relative;
+    text-align: center;
+    color: white;
 }
 
-.name ul li {
+.name li {
     display: inline-block;
-    margin-left: 15px;
-    color: gold;
-    list-style-type: none;
+    margin-left: 20px;
+    position: relative;
+}
+
+section {
+    flex: 1 0 100%;
+    padding: 2rem;
+    transition: flex-basis 500ms linear;
+    /* margin-bottom: 2rem; */
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    min-height: 100%;
+    padding: 16px;
+    color: rgb(0, 0, 0);
+}
+
+.center {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+}
+
+main {
+    text-align: center;
 }
