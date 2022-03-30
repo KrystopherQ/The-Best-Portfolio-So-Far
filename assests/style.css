@@ -66,9 +66,19 @@ h3 {
     font-size: 20px;
 }
 
+.w {
+    font-size: 15px;
+}
+
+ul {
+    list-style-type: none;
+}
+
 @media screen and (min-width: 480px) {
     .box {
         display: block;
+        flex: 0 0 100%;
+        max-width: 100%;
     }
 }
 
