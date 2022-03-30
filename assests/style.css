@@ -75,15 +75,15 @@ ul {
 }
 
 @media screen and (min-width: 480px) {
-    .box {
-        display: block;
+    .box .name {
+        display: flex;
         flex: 0 0 100%;
         max-width: 100%;
     }
 }
 
 @media screen and (min-width: 768px) {
-    .box {
+    .box .name {
         flex-wrap: wrap;
     }
 }
