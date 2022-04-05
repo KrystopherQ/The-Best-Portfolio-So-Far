@@ -17,5 +17,5 @@ Selecting *Portfolio* in the directory will bring you down to my projects. Hover
 
 ## **Contact**
 
-If you would like to contact me select *Contact* in the *Directory* at the top of the page. You'll be brought down to my contact info including email and number.
+If you would like to contact me select *Contact* in the *Directory* at the top of the page. You'll be brought down to my contact info including email and number. To visit the site you can visit it [here.](https://krystopherq.github.io/The-Best-Portfolio-So-Far/)
 ![Cont](https://github.com/KrystopherQ/The-Best-Portfolio-So-Far/blob/main/assests/images/Cont.png)
